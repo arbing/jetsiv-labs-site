@@ -1,0 +1,12 @@
+.DS_Store
+dist/
+build/
+target/
+node_modules/
+.venv/
+.env*
+!.env.example
+*.exe
+*.zip
+playwright-report/
+test-results/
